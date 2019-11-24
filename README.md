@@ -9,7 +9,6 @@ Tecnologias utilizadas:
 - Arrays
 - Promises
 - Fetch
-- RegExp
 - NPM
 - Git
 - Babel
